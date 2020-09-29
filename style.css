@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(216, 212, 212);
+}
+
+.contenedor{
+    width: 700px;
+    height: 1000px;
+    background-color: white;
+    margin: auto;
+    margin-top: 70px;
+    padding-left: 50px;
+}
+
+h1{
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+font-size: 50px;
+top: 70px;
+position: relative;
+}
+
+ul li{
+    list-style: none;
+    display: inline;
+    top: 100px;
+    position: relative;  
+}
+
+li{
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+margin-right: 20px;
+color: rgb(172, 162, 162);
+}
+
+.todos{
+border: 1px solid black;
+width: fit-content;
+border-radius: 5px 5px 5px 5px;
+padding: 8px;
+color: white;
+background-color: black;
+font-size: 18px;
+margin-left: -40px;
+}
+
+.individual{
+ top: 140px;   
+ position: relative;
+ margin-bottom: 30px;
+ border-bottom-style: solid;
+ border-bottom-width: 1px;
+ border-bottom-color: rgb(172, 162, 162);
+ margin-right: 40px;
+ padding-bottom: 40px;
+}
+
+span{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.cancelado{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 15px;
+    color:rgb(172, 162, 162);
+}
+
+.contenido{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:rgb(172, 162, 162); 
+    letter-spacing: 1px;
+    
+}
+
+a{
+    text-decoration: none;
+}
